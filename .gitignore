@@ -26,6 +26,7 @@ marlin_config.json
 mczip.h
 *.gen
 *.sublime-workspace
+*.list
 
 #
 # OS
